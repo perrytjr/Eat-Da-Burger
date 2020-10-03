@@ -7,7 +7,7 @@
 ## Overview 
 This application, Eat-Da-Burger is a restaurant app that lets users input the names of burgers they'd like to eat!
 
-![](https://github.com/perrytjr/Employee-Tracker/blob/master/Assets/Screen%20Shot%202020-09-26%20at%206.32.47%20PM.png)
+![](https://github.com/perrytjr/Eat-Da-Burger/blob/master/public/assets/img/Screen%20Shot%202020-10-03%20at%209.56.55%20AM.png)
 
 
  The user can submit a burger's name and click the thumbs up button that will add their burgers name to the burgers name list on the bottom left of the screen. If the user clicks on the silverware button it will move the burger name to the Devour list on the bottom right of the screen. 
